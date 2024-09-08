@@ -13,3 +13,4 @@ statsmodels
 plotly
 flake8
 python-dotenv
+tensorflow
