@@ -3,7 +3,7 @@
 
 # Heavy files / data files image files
 imgs/*
-# data/*
+data/processed_images/*
 heavy/*
 private/*
 

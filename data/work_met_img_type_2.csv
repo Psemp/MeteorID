@@ -56,7 +56,7 @@ RM095,LL5,"['RM095.jpg', 'RM095-3.jpg', 'RM095-2.jpg', 'RM095-4.jpg']"
 MB299,L6,"['MB299.jpg', 'MB299-4.jpg', 'MB299-2.jpg', 'MB299-3.jpg']"
 MC183,H5-6,['MC183.jpg']
 MC010,CV3,"['MC010_T5-1.jpg', 'MC010_T5.jpg']"
-GC029,,"['GC029_T5-2.jpg', 'GC029_T5.jpg', 'GC029-T5.jpg']"
+GC029,L5,"['GC029_T5-2.jpg', 'GC029_T5.jpg', 'GC029-T5.jpg']"
 GC123,L6,"['GC123.jpg', 'GC123-2.jpg', 'GC123-3.jpg', 'GC123-4.jpg']"
 GA052,H6,"['GA052.jpg', 'GA052-2.jpg']"
 RM016A,H5,"['RM016A-2.jpg', 'RM016A-3.jpg', 'RM016A+4.jpg', 'RM016A.jpg']"
@@ -70,7 +70,7 @@ GB033,H5,"['GB033-3.jpg', 'GB033-2.jpg', 'GB033.jpg']"
 MV060,H6,"['MV060.jpg', 'MV060-2.jpg', 'MV060-3.jpg', 'MV060-4.jpg']"
 GA325,H5,"['GA325.jpg', 'GA325-4.jpg', 'GA325-2.jpg']"
 MB115,H5,"['MB115.jpg', 'MB115-1.jpg', 'MB115-2.jpg']"
-GC020,,['GC020-TROILITE.jpg']
+GC020,H5,['GC020-TROILITE.jpg']
 MV055,H6,"['MV055big.jpg', 'MV055big-2.jpg']"
 GA053,H5,['GA053.jpg']
 MC169,L6,"['MC169.jpg', 'MC169-2.jpg']"
@@ -80,16 +80,16 @@ JG171,L6,"['JG171.jpg', 'JG171-4.jpg', 'JG171-3.jpg', 'JG171-2.jpg']"
 GA290,H5,['GA290.jpg']
 MB153,H5,"['MB153-3.jpg', 'MB153-2.jpg', 'MB153.jpg']"
 RB108,LL5,"['RB108-2.jpg', 'RB108.jpg']"
-GC234,,"['GC234-3.jpg', 'GC234-.jpg', 'GC234.jpg', 'GC234-chromite.jpg']"
+GC234,H5,"['GC234-3.jpg', 'GC234-.jpg', 'GC234.jpg', 'GC234-chromite.jpg']"
 MC001,L4,"['MC001_T5.jpg', 'MC001-T5.jpg', 'MC001-T5-2.jpg', 'MC001-T5-3.jpg']"
 MB117,L6,"['MB117.jpg', 'MB117-5.jpg', 'MB117-4.jpg', 'MB117-3.jpg', 'MB117-2.jpg']"
 MA284,H6,['MA284-2.jpg']
 MV062,L6,"['MV062.jpg', 'MV062-3.jpg', 'MV062-2.jpg', 'MV062-4.jpg']"
 MB329,LL5,"['MB329.jpg', 'MB329-2.jpg', 'MB329-3.jpg', 'MB329-4.jpg', 'MB329-5.jpg']"
-GC015,,"['GC015-3.jpg', 'GC015-2.jpg']"
-GC023,,"['GC023-odd-CHONDRULES.jpg', 'GC023.jpg', 'GC023-2.jpg', 'GC023-3.jpg']"
+GC015,L6,"['GC015-3.jpg', 'GC015-2.jpg']"
+GC023,H5,"['GC023-odd-CHONDRULES.jpg', 'GC023.jpg', 'GC023-2.jpg', 'GC023-3.jpg']"
 MA184,H5,"['MA184.jpg', 'MA184-4.jpg', 'MA184-2.jpg', 'MA184-3.jpg']"
-GC021,,"['GC021_T5.jpg', 'GC021_T5-2.jpg']"
+GC021,H5,"['GC021_T5.jpg', 'GC021_T5-2.jpg']"
 GC14,H5,['GC14-3.jpg']
 MA219,L5,"['MA219.jpg', 'MA219-2.jpg']"
 RB074,H5,"['RB074-2.jpg', 'RB074.jpg']"
@@ -123,8 +123,8 @@ GC184,L6,"['GC184.jpg', 'GC184-4.jpg', 'GC184-3.jpg', 'GC184-2.jpg']"
 GC217,H5,"['GC217-3.jpg', 'GC217-METAL.jpg']"
 GA208,H5,"['GA208.jpg', 'GA208-3.jpg', 'GA208-2.jpg', 'GA208-4.jpg']"
 GA238,H6,"['GA238-4.jpg', 'GA238-2.jpg', 'GA238.jpg']"
-GC014b,,"['GC014b-T5-2.jpg', 'GC014b_Odd-PLAGIO-rim.jpg', 'GC014b-T5.jpg']"
-G209,,['G209.jpg']
+GC014b,H5,"['GC014b-T5-2.jpg', 'GC014b_Odd-PLAGIO-rim.jpg', 'GC014b-T5.jpg']"
+G209,H5,['G209.jpg']
 RM008,H5-6,"['RM008.jpg', 'RM008-2.jpg']"
 MB035,LL6,"['MB035-4.jpg', 'MB035-2.jpg', 'MB035-3.jpg', 'MB035.jpg']"
 MA187a,H5,"['MA187a-2.jpg', 'MA187a.jpg']"
@@ -132,7 +132,7 @@ GC174a,H5,"['GC174a.jpg', 'GC174a-4.jpg', 'GC174a-5.jpg', 'GC174a-2.jpg', 'GC174
 MA296,L6,"['MA296.jpg', 'MA296-2.jpg']"
 MB156,L6,"['MB156-2.jpg', 'MB156-3.jpg', 'MB156.jpg']"
 RM018,H5-6,"['RM018-3.jpg', 'RM018-2.jpg', 'RM018.jpg', 'RM018-4.jpg']"
-GC019,,"['GC019.jpg', 'GC019-T5.jpg']"
+GC019,L5,"['GC019.jpg', 'GC019-T5.jpg']"
 MB199,L5,['MB199.jpg']
 RM060,H5,"['RM060-3.jpg', 'RM060-.jpg', 'RM060.jpg']"
 RB095,H5,"['RB095-3.jpg', 'RB095-2.jpg', 'RB095.jpg']"
@@ -140,7 +140,7 @@ MB033,H6,"['MB033-2.jpg', 'MB033.jpg']"
 MA300,L6,"['MA300-2.jpg', 'MA300-3.jpg', 'MA300-4.jpg', 'MA300.jpg']"
 M692,H5,"['M692.jpg', 'M692-3.jpg', 'M692-2.jpg']"
 MV050a,H5,"['MV050a.jpg', 'MV050a-3.jpg', 'MV050a-2.jpg', 'MV050a-4.jpg']"
-GC024,,"['GC024.jpg', 'GC024-2.jpg', 'GC024-3.jpg', 'GC024-4.jpg', 'GC024-5.jpg']"
+GC024,H6,"['GC024.jpg', 'GC024-2.jpg', 'GC024-3.jpg', 'GC024-4.jpg', 'GC024-5.jpg']"
 GC178,H5,"['GC178.jpg', 'GC178-4.jpg', 'GC178-2.jpg']"
 RM035,L6,"['RM035.jpg', 'RM035-2.jpg', 'RM035-3.jpg']"
 GA301,H5,"['GA301-4.jpg', 'GA301-3.jpg', 'GA301-2.jpg', 'GA301.jpg']"
@@ -148,7 +148,7 @@ RM064,L6,"['RM064-2.jpg', 'RM064-3.jpg', 'RM064.jpg']"
 MB056,H6,"['MB056-2.jpg', 'MB056-3.jpg', 'MB056.jpg']"
 RB100,LL5,['RB100.jpg']
 RM038,H5,"['RM038-3.jpg', 'RM038-2.jpg', 'RM038.jpg']"
-RM0182,,['RM0182.jpg']
+RM0182,H5-6,['RM0182.jpg']
 GB208,H5,"['GB208-2.jpg', 'GB208.jpg']"
 GC182,L6,"['GC182.jpg', 'GC182-3.jpg', 'GC182-2.jpg', 'GC182-5.jpg', 'GC182-4.jpg', 'GC182-6.jpg']"
 MB336,H5-6,"['MB336-2.jpg', 'MB336.jpg']"
@@ -167,19 +167,19 @@ MC002,H5,"['MC002_T6-3.jpg', 'MC002-5.jpg', 'MC002_T6.jpg', 'MC002-4.jpg', 'MC00
 GB219,H5,"['GB219-4.jpg', 'GB219-2.jpg', 'GB219-3.jpg', 'GB219.jpg']"
 MA177,L6,"['MA177-2.jpg', 'MA177-3.jpg', 'MA177-4.jpg', 'MA177.jpg']"
 MA288,H6,"['MA288.jpg', 'MA288-3.jpg', 'MA288-2.jpg']"
-G015,,['G015.jpg']
+G015,L6,['G015.jpg']
 RB027,H5,"['RB027-2.jpg', 'RB027.jpg']"
 MB145,H5,"['MB145-2.jpg', 'MB145.jpg', 'MB145-3.jpg', 'MB145-4.jpg']"
 JG153,H5,"['JG153-2.jpg', 'JG153-3.jpg', 'JG153.jpg']"
 GA271,L6,"['GA271-3.jpg', 'GA271-2.jpg', 'GA271-4.jpg', 'GA271.jpg']"
 GB182,H5,"['GB182-3.jpg', 'GB182-2.jpg', 'GB182-4.jpg', 'GB182.jpg']"
 RB246,L6,"['RB246-T6-3.jpg', 'RB246-T6-2.jpg', 'RB246-T6-5.jpg', 'RB246-T6-4.jpg', 'RB246-T6-6.jpg', 'RB246-T6.jpg']"
-RM0833,,['RM0833.jpg']
+RM0833,H5-6,['RM0833.jpg']
 RB250,LL5,['RB250.jpg']
 MB192,H6,['MB192.jpg']
 MB019,H6,"['MB019.jpg', 'MB019-3.jpg', 'MB019-2.jpg']"
 GB160,LL6,"['GB160-T6.jpg', 'GB160-T6-4.jpg', 'GB160-T6-2.jpg', 'GB160-T6-3.jpg']"
-MV064a,,"['MV064a.jpg', 'MV064a-4.jpg', 'MV064a-2.jpg', 'MV064a-3.jpg']"
+MV064a,L6,"['MV064a.jpg', 'MV064a-4.jpg', 'MV064a-2.jpg', 'MV064a-3.jpg']"
 GA215,H5-6,"['GA215.jpg', 'GA215-4.jpg', 'GA215-3.jpg', 'GA215-2.jpg']"
 GA229,H5,"['GA229.jpg', 'GA229-2.jpg']"
 GB044,H5,['GB044.jpg']
@@ -187,7 +187,7 @@ RM015,LL5,"['RM015.jpg', 'RM015-4.jpg', 'RM015-2.jpg', 'RM015-3.jpg']"
 RM114,H5,"['RM114-2.jpg', 'RM114-3.jpg', 'RM114-4.jpg', 'RM114.jpg']"
 RB130,H5,['RB130.jpg']
 RM010,LL5,"['RM010-3.jpg', 'RM010-2.jpg', 'RM010.jpg', 'RM010-4.jpg']"
-GC010,,['GC010.jpg']
+GC010,H5,['GC010.jpg']
 RB044,H5,['RB044.jpg']
 GA316,H5,"['GA316-2.jpg', 'GA316-3.jpg', 'GA316.jpg']"
 GB146,LL5,"['GB146-4.jpg', 'GB146-1.jpg', 'GB146-2.jpg', 'GB146-3.jpg']"
@@ -196,7 +196,7 @@ GB125,LL5,['GB125.jpg']
 MB146,LL5,"['MB146.jpg', 'MB146-3.jpg', 'MB146-2.jpg', 'MB146-4.jpg']"
 MC012,LL4,"['MC012-BRECCIA5-6.jpg', 'MC012_T5.jpg']"
 GB079,LL5,['GB079-LL.jpg']
-MV064b,,"['MV064b.jpg', 'MV064b-2.jpg']"
+MV064b,L6,"['MV064b.jpg', 'MV064b-2.jpg']"
 GC161,H5-6,"['GC161.jpg', 'GC161-4.jpg', 'GC161-3.jpg']"
 MA271,H5,"['MA271.jpg', 'MA271-4.jpg', 'MA271-2.jpg', 'MA271-3.jpg']"
 MB183,H5,"['MB183-2.jpg', 'MB183-3.jpg']"
@@ -227,5 +227,5 @@ MB125,L6,['MB125.jpg']
 MB051,H5,['MB051.jpg']
 RB194,LL5,['RB194.jpg']
 MV109,H5,['MV109.jpg']
-MC176,,['MC176.jpg']
+MC176,H5,['MC176.jpg']
 MC003,H5,['MC003.jpg']
