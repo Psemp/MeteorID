@@ -18,9 +18,10 @@ def augment_mp():
     df = pd.read_pickle(filepath_or_buffer="../data/work_met_img_type_2.pkl")
     # Factors dictionary
     factors = {
+        "H5": 1,
         "L6": 1,
         "H6": 2,
-        "LL5": 3,
+        "LL5": 4,
         "H5-6": 4,
         "LL6": 4,
         "L5": 4
