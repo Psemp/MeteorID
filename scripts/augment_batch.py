@@ -3,6 +3,7 @@ import concurrent.futures
 from tqdm import tqdm
 from scripts.image_augment import augment_image
 import pandas as pd
+import sys
 
 
 def process_image_task(args):
@@ -29,6 +30,9 @@ def augment_mp():
 
     # Save directory
     save_dir = "../data/processed_images/"
+
+    if sys.platform == "win32":
+        save_dir = "..\\data\\processed_images\\"
     os.makedirs(save_dir, exist_ok=True)
 
     # Prepare tasks

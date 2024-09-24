@@ -6,6 +6,7 @@ imgs/*
 data/processed_images/*
 heavy/*
 private/*
+mtype_images_tf.h5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
